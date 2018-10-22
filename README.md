@@ -1,25 +1,21 @@
 # YOLOv2_Pytorch
 This is a repository containing the implementation of YOLOv2.
 
-You only look once, but you reimplement neural nets over and over again.
-
-YAD2K is a 90% Keras/10% Tensorflow implementation of YOLO_v2.
+This implementation is 100% implementation of YOLO_v2.
 
 Original paper: [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) by Joseph Redmond and Ali Farhadi.
 
-![YOLO_v2 COCO model with test_yolo defaults](etc/dog_small.jpg)
+![YOLO_v2 COCO model with test_yolo defaults](/images/out/dog.jpg)
 
 --------------------------------------------------------------------------------
 
 ## Requirements
 
-- [Keras](https://github.com/fchollet/keras)
-- [Tensorflow](https://www.tensorflow.org/)
+- [Pytorch 0.3.0](https://pytorch.org/)
 - [Numpy](http://www.numpy.org/)
 - [h5py](http://www.h5py.org/) (For Keras model serialization.)
 - [Pillow](https://pillow.readthedocs.io/) (For rendering test results.)
-- [Python 3](https://www.python.org/)
-- [pydot-ng](https://github.com/pydot/pydot-ng) (Optional for plotting model.)
+- [Python 3.6](https://www.python.org/)
 
 ### Installation
 ```bash
