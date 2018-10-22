@@ -1,7 +1,7 @@
 # YOLOv2_Pytorch
 This is a repository containing the implementation of YOLOv2.
 
-This implementation is 100% implementation of YOLO_v2.
+This implementation is 100% pytorch implementation of YOLO_v2.
 
 Original paper: [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) by Joseph Redmond and Ali Farhadi.
 
