@@ -6,9 +6,9 @@ This implementation is 100% pytorch implementation of YOLO_v2.
 Original paper: [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) by Joseph Redmond and Ali Farhadi.
 
 <p float="left">
-  <img src="/images/out/dog.jpg" width="200" />
-  <img src="/images/out/person.jpg" width="200" /> 
-  <img src="/images/out/eagle.jpg" width="200" />
+  <img src="/images/out/dog.jpg" width="250" />
+  <img src="/images/out/person.jpg" width="250" /> 
+  <img src="/images/out/eagle.jpg" width="250" />
 </p>
 --------------------------------------------------------------------------------
 
